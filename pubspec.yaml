@@ -1,0 +1,12 @@
+name: fadingpageview
+description: A widget similar to PageView that makes the transition between pages by fading out the current one and fading in the next one
+version: 1.0.0
+homepage: https://github.com/damadenacar/flutter.fadingpageview
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
